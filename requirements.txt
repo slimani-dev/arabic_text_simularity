@@ -1,0 +1,6 @@
+scipy
+sqlalchemy
+googletrans
+sklearn
+numpy
+flask
