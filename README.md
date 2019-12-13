@@ -5,12 +5,6 @@ measure similarity between two txt files (Python)
 
 I have used **Python2** but i should work with python3 without problems
 
-activate th venv
-
-```bash
-source venv/bin/activate
-```
-
 Install dependencies:
 
 ```
