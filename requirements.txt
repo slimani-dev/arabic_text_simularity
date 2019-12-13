@@ -1,6 +1,9 @@
-scipy
 sqlalchemy
 googletrans
 sklearn
 numpy
 flask
+flask_cors
+flask_jsonpify
+flask_restful
+scipy

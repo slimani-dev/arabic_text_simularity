@@ -3,12 +3,10 @@ measure similarity between two txt files (Python)
 
 ## The API server with Python
 
-I have used **Python2** but i should work with python3 without problems
-
 Install dependencies:
 
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 then run following commands:
 

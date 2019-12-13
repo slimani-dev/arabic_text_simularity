@@ -53,7 +53,7 @@ def get_data():
             'translated_cat': translated_cat
         })
 
-    print documents
+    print(documents)
 
 
 app = Flask(__name__)
@@ -83,7 +83,6 @@ def translate():
     results = []
 
     print('len(test_bns_vectors.keys()) ', len(test_bns_vectors.keys()))
-
 
     for category in test_bns_vectors.keys():
         vector = test_bns_vectors[category]
